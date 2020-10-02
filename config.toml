@@ -1,4 +1,4 @@
-baseurl = "fangwei18.github.io/joke/"
+baseurl = "https://fangwei18.github.io/joke/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
